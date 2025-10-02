@@ -1,5 +1,5 @@
 # word-peek
-word-peek lets you click on any word in your screen and instantly fetch its dictionary definition, synonyms, antonyms, and example sentences. A lightweight, fast, and convenient tool for learners, readers and writers.
+word-peek lets you click/select on any word in your screen and instantly fetch its dictionary definition, synonyms, antonyms, and example sentences. A lightweight, fast, and convenient tool for learners, readers and writers.
 
 ## Build Requirements
 Compiler toolchain (gcc, make, etc. — install via build-essential on Debian/Ubuntu).
