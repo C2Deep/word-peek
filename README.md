@@ -34,7 +34,8 @@ After you run the program there are two ways to select a word from your computer
     simply keep pressing the left mouse button and select the word and make sure the whole word is inside the selection box.
   
 - automatic selection:
-   just click computer mouse right button in the **center** of the word. If the word consist of 2 words  (ex. back up) click in the space between the two words.
+   just click once computer mouse right button in the **center** of the word. If the word consist of 2 words  (ex. back up) click in the space between the two words.
 
 ## Tip
-Make a custom shortcut for this program so that you can launch it anywhere.
+
+Make a custom shortcut for this program so that you can launch it while you reading, browsing, watching video, ...etc.
