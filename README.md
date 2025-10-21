@@ -36,6 +36,13 @@ After you run the program there are two ways to select a word from your computer
 - automatic selection:
    just click once computer mouse right button in the **center** of the word. If the word consist of 2 words  (ex. back up) click in the space between the two words.
 
+## Technologies Used
+- X Window System Libraries.
+- [Tesseract OCR (Optical Character Recognition)](https://github.com/tesseract-ocr): Tesseract OCR is a software that can recognize text in images and convert it to various formats.
+- [Leptonica](http://www.leptonica.org/): The Leptonica image processing and analysis source code comes with a very weakly restricted copyright license. 
+- [libcurl](https://curl.se/libcurl/): libcurl is a free and easy-to-use client-side URL transfer library, supporting many protocols and features. 
+- [ibpbg](http://libpng.org/pub/png/libpng.html): Library for reading and writing PNG image files.
+- [cJSON](https://github.com/DaveGamble/cJSON): Ultralightweight JSON parser in ANSI C.
+  
 ## Tip
-
 Make a custom shortcut for this program so that you can launch it while you reading, browsing, watching video, ...etc.
