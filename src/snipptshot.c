@@ -364,7 +364,9 @@ void SS_put_screenshot_img(Display *dpy, Window wnw, XImage *ssImg)
                 break;
     }
 
-    // Wait for final Expose event
+  
+    /* 
+    // Wait for final Expose event. It is needed for Kubuntu 22.04 
     for (;;)
     {
         XNextEvent(dpy, &ev);
@@ -378,6 +380,7 @@ void SS_put_screenshot_img(Display *dpy, Window wnw, XImage *ssImg)
         }
 
     }
+    */
 
    GC gc = XCreateGC(dpy, wnw, 0, NULL);
 
